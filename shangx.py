@@ -1,3 +1,4 @@
+#! /bin/env python3
 # 赛博上香
 # by Forever121
 import os
@@ -65,17 +66,17 @@ st = incense()
 interval = 0.5
 # windows
 if os.name == 'nt':
-    for i in range(0, 14): 
+    for i in range(0, 42): 
         os.system('cls')
         st.format_incense_pattern()
-        time.sleep(interval)
+        time.sleep(interval)    
     exit(0)
 
 
 # linux
 try:
     os.system('tput civis')
-    for i in range(0, 14): 
+    for i in range(0, 42): 
         os.system('clear')
         st.format_incense_pattern()
         # break
