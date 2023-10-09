@@ -12,10 +12,10 @@ class incense():
         self.smoke_columns_offset = 5
         
         self.incense_pattern = '''
-             ╱╱┏╮
+            ╱╱╱┏╮
           ╱╱╱╱╱┃┃
          ╱╱╱╱╱╱┃┃
-         ┛┛┛┛┛┛┃┃
+         ╱╱╱╱╱ ┃┃
          ╱╱╱╱╱╱┃┃
         ╱╱╱╱╱╱ ┃┃
         ╱╱╱╱╱╱ ┃┃
@@ -26,6 +26,8 @@ class incense():
         ╱╱╱╱╱  ┃┃
         ╱╱╱╱╱╱╱╱
         '''
+
+
 
     def format_incense_pattern(self):
         global columns
