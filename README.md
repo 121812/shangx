@@ -3,7 +3,7 @@
 给服务器上柱香吧，希望它永不宕机。
 </p>
 <p align="center">
-<img src="./static/bash.gif" alt="s" width="100" height="100">
+<img src="./static/bash.gif" alt="s" width="180" height="180">
 </p>
 
 ## 一键安装
