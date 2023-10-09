@@ -1,5 +1,10 @@
-# shangx
+# <p align="center"> shangx </p>
+<p align="center">
 给服务器上柱香吧，希望它永不宕机。
+</p>
+<p align="center">
+<img src="./static/bash.gif" alt="s" width="100" height="100">
+</p>
 
 ## 一键安装
 ```bash
@@ -17,3 +22,10 @@ mv shangx/shangx.py /sbin/shangx
 ```bash
 shangx
 ```
+
+## 预览
+#### bash
+<img src="./static/bash.gif" alt="s" width="500" height="500">
+
+#### powershell
+<img src="./static/powershell.gif" alt="s" width="500" height="500">
